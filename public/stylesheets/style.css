@@ -297,4 +297,8 @@ body{
       margin-top: 20%;
       font-size: .85em;
      }
+
+     .fade p{
+      margin-top: 15%;
+     }
 } 
