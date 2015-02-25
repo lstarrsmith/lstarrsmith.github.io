@@ -275,6 +275,11 @@ body{
       height: 25%;
      }
 
+     .work_item_description article{
+       margin: 5% 5%;
+    
+      }
+
      .work_item_description {
       height: 120%;
      }
@@ -295,9 +300,10 @@ body{
      }
      .work_item_description h1{
       margin-top: 20%;
-      font-size: .85em;
+      font-size: .95em;
      }
-
+     
+     
      .fade p{
       margin-top: 15%;
      }
