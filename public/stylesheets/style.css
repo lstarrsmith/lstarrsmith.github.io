@@ -284,7 +284,7 @@ body{
 
 @media only screen and (max-width : 400px) {
      #intro {
-      font-size: .65em;
+      font-size: .6em;
      }
      .work_item {
       width: 100%;
