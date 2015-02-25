@@ -274,6 +274,10 @@ body{
      .work_item_description img {
       height: 25%;
      }
+
+     .work_item_description {
+      height: 120%;
+     }
 } 
 
 
