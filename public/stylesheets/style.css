@@ -221,6 +221,10 @@ body{
         color: white;
       }
 
+      .fade button{
+        margin-bottom: 15px;
+      }
+
 
 /*----------------------Media Queries--------------   */
 
